@@ -19,7 +19,7 @@
       <a href="https://arxiv.org/abs/2305.09648" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <!-- <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2303-03747.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2305-09648.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
