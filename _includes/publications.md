@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Learning Multi-Agent Communication from Graph Modeling Perspective</a></div>
+    <div class="title">Learning Multi-Agent Communication from Graph Modeling Perspective</div>
     <div class="author"><strong>Shengchao Hu</strong>, Li Shen, Ya Zhang, Dacheng Tao</div>
     <div class="periodical"><em>Coming soon.</em></div>
     <div class="links">
@@ -36,7 +36,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Prompt Tuning with Diffusion for Few-Shot Pre-trained Policy Generalization</a></div>
+    <div class="title">Prompt Tuning with Diffusion for Few-Shot Pre-trained Policy Generalization</div>
     <div class="author"><strong>Shengchao Hu</strong>, Li Shen, Ya Zhang, Dacheng Tao</div>
     <div class="periodical"><em>Coming soon.</em></div>
     <div class="links">
