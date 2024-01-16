@@ -17,9 +17,18 @@ I am currently a Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https:/
 
 ## Services
 
-+ Conference Reviewer:  CVPR 2024
-+ Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
+<ul style="margin:0 0 5px;">
+  <li><a href="http://cvpr2024.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</autocolor></a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
+  <li><a href="https://www.ieee-ras.org/publications/ra-l"><autocolor>IEEE Robotics and Automation Letters (RA-L)</autocolor></a></li>
+</ul>
 
 
 {% include_relative _includes/publications.md %}
