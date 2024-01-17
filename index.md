@@ -13,6 +13,7 @@ I am currently a Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https:/
 
 ## News
 
+- **[Jan. 2024]** Our paper about multi-agent communication is accepted to ICLR 2024.
 - **[Jun. 2022]** Our paper about autonomouse driving is accepted to ECCV 2022.
 
 ## Services
