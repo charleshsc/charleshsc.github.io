@@ -9,7 +9,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/FedGSAM.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICLR</abbr>
+    <!-- <abbr class="badge">ICLR</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -33,7 +33,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/HarmoDT.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICLR</abbr>
+    <!-- <abbr class="badge">ICLR</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -56,7 +56,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/duck.JPG" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICLR</abbr>
+    <!-- <abbr class="badge">ICLR</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
