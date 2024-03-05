@@ -38,7 +38,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning</div>
-    <div class="author"><strong>Shengchao Hu</strong>, Ziqin Fan, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao</div>
+    <div class="author"><strong>Shengchao Hu</strong>*, Ziqin Fan*, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao</div>
     <div class="periodical"><em>Under Review</em></div>
     <div class="links">
       <!-- <a href="https://openreview.net/forum?id=Qox9rO0kN0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
