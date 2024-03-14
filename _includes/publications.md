@@ -83,12 +83,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Learning Multi-Agent Communication from Graph Modeling Perspective</div>
+    <div class="title"><a href="https://openreview.net/forum?id=Qox9rO0kN0">Learning Multi-Agent Communication from Graph Modeling Perspective</a></div>
     <div class="author"><strong>Shengchao Hu</strong>, Li Shen, Ya Zhang, Dacheng Tao</div>
     <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong> 2024</em></div>
     <div class="links">
       <a href="https://openreview.net/forum?id=Qox9rO0kN0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://github.com/charleshsc/CommFormer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <!-- <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2305-09648.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
