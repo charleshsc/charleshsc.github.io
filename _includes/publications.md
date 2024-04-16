@@ -90,7 +90,7 @@
       <a href="https://openreview.net/forum?id=Qox9rO0kN0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/charleshsc/CommFormer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <!-- <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2305-09648.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:bKDE8IQj64kJ:scholar.google.com/&output=citation&scisdr=ClF6OAIjEJDfmoQZHEI:AFWwaeYAAAAAZh4fBELEJwqzHc9GlDq6dui5ZFU&scisig=AFWwaeYAAAAAZh4fBO0TgXtNSegOvxNVAkd4px0&scisf=4&ct=citation&cd=-1&hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
