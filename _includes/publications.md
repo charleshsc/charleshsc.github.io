@@ -9,13 +9,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/FedGSAM.png" class="teaser img-fluid z-depth-1">
-    <!-- <abbr class="badge">ICLR</abbr> -->
+    <abbr class="badge">ICML</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Locally Estimated Global Perturbations is Better than Local Perturbations for Federated Sharpness-aware Minimization</div>
     <div class="author">Ziqing Fan, <strong>Shengchao Hu</strong>, Jiangchao Yao, Gang Niu, Ya Zhang, Masashi Sugiyama, Yanfeng Wang</div>
-    <div class="periodical"><em>Under Review</em></div>
+    <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong> 2024</em></div>
     <div class="links">
       <!-- <a href="https://openreview.net/forum?id=Qox9rO0kN0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
@@ -33,13 +33,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/HarmoDT.png" class="teaser img-fluid z-depth-1">
-    <!-- <abbr class="badge">ICLR</abbr> -->
+    <abbr class="badge">ICML</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning</div>
     <div class="author"><strong>Shengchao Hu</strong>*, Ziqing Fan*, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao</div>
-    <div class="periodical"><em>Under Review</em></div>
+    <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong> 2024</em></div>
     <div class="links">
       <!-- <a href="https://openreview.net/forum?id=Qox9rO0kN0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
@@ -56,13 +56,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/duck.JPG" class="teaser img-fluid z-depth-1">
-    <!-- <abbr class="badge">ICLR</abbr> -->
+    <abbr class="badge">ICML</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Q-learning Transformer for Offline Reinforcement Learning</div>
     <div class="author"><strong>Shengchao Hu</strong>, Ziqing Fan, Chaoqin Huang, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao</div>
-    <div class="periodical"><em>Under Review</em></div>
+    <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong> 2024</em></div>
     <div class="links">
       <!-- <a href="https://openreview.net/forum?id=Qox9rO0kN0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->

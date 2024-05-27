@@ -13,6 +13,7 @@ I am currently a Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https:/
 
 ## News
 
+- **[May. 2024]** Three papers are accepted to ICML 2024.
 - **[Jan. 2024]** Our paper about multi-agent communication is accepted to ICLR 2024.
 - **[Jun. 2022]** Our paper about autonomouse driving is accepted to ECCV 2022.
 
@@ -22,6 +23,7 @@ I am currently a Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https:/
 
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2024.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
