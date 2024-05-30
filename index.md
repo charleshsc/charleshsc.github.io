@@ -13,6 +13,7 @@ I am currently a Ph.D. student at [Shanghai Jiao Tong University (SJTU)](https:/
 
 ## News
 
+- **[May. 2024]** One paper is accepted to TPAMI.
 - **[May. 2024]** Three papers are accepted to ICML 2024.
 - **[Jan. 2024]** Our paper about multi-agent communication is accepted to ICLR 2024.
 - **[Jun. 2022]** Our paper about autonomouse driving is accepted to ECCV 2022.
