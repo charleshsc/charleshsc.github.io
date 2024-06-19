@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Locally Estimated Global Perturbations is Better than Local Perturbations for Federated Sharpness-aware Minimization</div>
+    <div class="title"><a href="https://arxiv.org/abs/2405.18890">Locally Estimated Global Perturbations is Better than Local Perturbations for Federated Sharpness-aware Minimization</a></div>
     <div class="author">Ziqing Fan, <strong>Shengchao Hu</strong>, Jiangchao Yao, Gang Niu, Ya Zhang, Masashi Sugiyama, Yanfeng Wang</div>
     <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong> 2024</em></div>
     <div class="links">
@@ -37,7 +37,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning</div>
+    <div class="title"><a href="https://arxiv.org/abs/2405.18080">HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning</a></div>
     <div class="author"><strong>Shengchao Hu</strong>*, Ziqing Fan*, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao</div>
     <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong> 2024</em></div>
     <div class="links">
@@ -60,7 +60,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Q-learning Transformer for Offline Reinforcement Learning</div>
+    <div class="title"><a href="https://arxiv.org/abs/2405.17098">Q-value Regularized Transformer for Offline Reinforcement Learning</a></div>
     <div class="author"><strong>Shengchao Hu</strong>, Ziqing Fan, Chaoqin Huang, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao</div>
     <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong> 2024</em></div>
     <div class="links">
@@ -217,7 +217,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Darts.png" class="teaser img-fluid z-depth-1">
-    <!-- <abbr class="badge">ECCV</abbr> -->
+    <abbr class="badge">MDPI</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
