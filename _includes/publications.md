@@ -17,11 +17,11 @@
     <div class="author">Ziqing Fan, <strong>Shengchao Hu</strong>, Jiangchao Yao, Gang Niu, Ya Zhang, Masashi Sugiyama, Yanfeng Wang</div>
     <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong> 2024</em></div>
     <div class="links">
-      <!-- <a href="https://openreview.net/forum?id=Qox9rO0kN0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
-      <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://arxiv.org/abs/2405.18890" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/MediaBrain-SJTU/FedLESAM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <!-- <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2305-09648.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+      <strong><i style="color:#e74d3c">Spotlight Presentation</i></strong>
     </div>
   </div>
 </div>
@@ -41,8 +41,8 @@
     <div class="author"><strong>Shengchao Hu</strong>*, Ziqing Fan*, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao</div>
     <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong> 2024</em></div>
     <div class="links">
-      <!-- <a href="https://openreview.net/forum?id=Qox9rO0kN0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
-      <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://arxiv.org/abs/2405.18080" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/charleshsc/HarmoDT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <!-- <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2305-09648.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
@@ -64,8 +64,8 @@
     <div class="author"><strong>Shengchao Hu</strong>, Ziqing Fan, Chaoqin Huang, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao</div>
     <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong> 2024</em></div>
     <div class="links">
-      <!-- <a href="https://openreview.net/forum?id=Qox9rO0kN0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
-      <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://arxiv.org/abs/2405.17098" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/charleshsc/QT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <!-- <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2305-09648.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
