@@ -13,7 +13,6 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 
 ## News
 - **[Sep. 2024]** One paper is accepted to NeurIPS 2024.
-- **[Sep. 2024]** 4 CCF-A articles cannot pass the national award defense of the department of the CS (Ridiculous).
 - **[May. 2024]** One paper is accepted to TPAMI.
 - **[May. 2024]** Three papers are accepted to ICML 2024.
 - **[Jan. 2024]** Our paper about multi-agent communication is accepted to ICLR 2024.
