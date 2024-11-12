@@ -8,10 +8,11 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 
 ## Research Interests
 
-- **Computer Vision:** autonomous driving
-- **Machine Learning:** reinforcement learning
+- **Computer Vision:** autonomous driving, embodied AI
+- **Machine Learning:** reinforcement learning, continuous learning
 
 ## News
+- **[Nov. 2024]** I received the national scholarships of 2024.
 - **[Sep. 2024]** One paper is accepted to NeurIPS 2024.
 - **[May. 2024]** One paper is accepted to TPAMI.
 - **[May. 2024]** Three papers are accepted to ICML 2024.
