@@ -12,6 +12,7 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 - **Machine Learning:** reinforcement learning, continuous learning
 
 ## News
+- **[Dec. 2024]** I went to NTU for one year of research.
 - **[Nov. 2024]** I received the national scholarships of 2024.
 - **[Sep. 2024]** One paper is accepted to NeurIPS 2024.
 - **[May. 2024]** One paper is accepted to TPAMI.
@@ -24,6 +25,7 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML) 2025</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
   <li><a href="https://aaai.org/conference/aaai/aaai-25/"><autocolor>The Association for the Advancement of Artificial Intelligence (AAAI) 2025</autocolor></a></li>
   <li><a href="https://neurips.cc/"><autocolor>Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
