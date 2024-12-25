@@ -12,6 +12,7 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 - **Machine Learning:** reinforcement learning, continuous learning
 
 ## News
+- **[Dec. 2024]** One paper is accepted to AAMAS 2025.
 - **[Dec. 2024]** I went to NTU for one year of research.
 - **[Nov. 2024]** I received the national scholarships of 2024.
 - **[Sep. 2024]** One paper is accepted to NeurIPS 2024.
