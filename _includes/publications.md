@@ -131,7 +131,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2411.01168">Prompt Tuning with Diffusion for Few-Shot Pre-trained Policy Generalization</a></div>
     <div class="author"><strong>Shengchao Hu</strong>, Wanru Zhao, Weixiong Lin, Li Shen, Ya Zhang, Dacheng Tao</div>
-    <div class="periodical"><em>International Conference on Autonomous Agents and Multiagent Systems</em></div>
+    <div class="periodical"><em>International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2025</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2411.01168" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
