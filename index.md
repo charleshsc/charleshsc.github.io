@@ -12,6 +12,7 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 - **Machine Learning:** reinforcement learning, continuous learning
 
 ## News
+- **[Feb. 2025]** One paper is accepted to ICLR 2025 (Oral).
 - **[Dec. 2024]** One paper is accepted to AAMAS 2025.
 - **[Dec. 2024]** I went to NTU for one year of research.
 - **[Nov. 2024]** I received the national scholarships of 2024.
@@ -26,11 +27,11 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML) 2025</autocolor></a></li>
-  <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
-  <li><a href="https://aaai.org/conference/aaai/aaai-25/"><autocolor>The Association for the Advancement of Artificial Intelligence (AAAI) 2025</autocolor></a></li>
-  <li><a href="https://neurips.cc/"><autocolor>Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
-  <li><a href="http://cvpr2024.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</autocolor></a></li>
+  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML)</autocolor></a></li>
+  <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR)</autocolor></a></li>
+  <li><a href="https://aaai.org/conference/aaai/aaai-25/"><autocolor>The Association for the Advancement of Artificial Intelligence (AAAI)</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>Neural Information Processing Systems (NeurIPS)</autocolor></a></li>
+  <li><a href="http://cvpr2024.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
