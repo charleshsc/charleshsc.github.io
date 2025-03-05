@@ -12,6 +12,7 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 - **Machine Learning:** reinforcement learning, continuous learning
 
 ## News
+- **[Feb. 2025]** One paper is accepted to SCIS (CCF-A Journal).
 - **[Feb. 2025]** One paper is accepted to ICLR 2025 (Oral).
 - **[Dec. 2024]** One paper is accepted to AAMAS 2025.
 - **[Dec. 2024]** I went to NTU for one year of research.
