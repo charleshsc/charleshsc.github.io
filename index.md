@@ -16,6 +16,7 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 
 - **[Feb. 2025]** One paper is accepted to SCIS (CCF-A Journal).
 - **[Feb. 2025]** One paper is accepted to ICLR 2025 (Oral).
+- **[Jan. 2025]** I was selected as Young Talent Support Project Doctoral Special Program (青年人才托举工程博士生专项计划).
 - **[Dec. 2024]** One paper is accepted to AAMAS 2025.
 - **[Dec. 2024]** I went to NTU for one year of research.
 - **[Nov. 2024]** I received the national scholarships of 2024.
