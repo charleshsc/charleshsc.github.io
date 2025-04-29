@@ -14,6 +14,7 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 
 ## News
 
+- **[Apr. 2025]** One paper is accepted to J-STSP (IEEE Journal of Selected Topics in Signal Processing).
 - **[Feb. 2025]** One paper is accepted to SCIS (CCF-A Journal).
 - **[Feb. 2025]** One paper is accepted to ICLR 2025 (Oral).
 - **[Jan. 2025]** I was selected as Young Talent Support Project Doctoral Special Program (青年人才托举工程博士生专项计划).
