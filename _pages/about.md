@@ -393,7 +393,7 @@ My current research interests focus on two key areas:
     <li>
       Learning Multi-Agent Communication from Graph Modeling Perspective
       <br><b>Shengchao Hu</b>, Li Shen, Ya Zhang, Dacheng Tao,<br>
-      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="red">non-CCF</font></b>, 2024</i><br>
+      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="#9400D3">non-CCF</font></b>, 2024</i><br>
       [<a href="https://arxiv.org/abs/2405.08550">Paper</a>][<a href="https://github.com/charleshsc/CommFormer">Code</a>]
     </li>
 </ul>
