@@ -310,6 +310,7 @@ My current research interests focus on two key areas:
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>[Aug. 2025]</em> One paper is accepted to SCIS (CCF-A Journal).</li>
   <li><em>[Apr. 2025]</em> One paper is accepted to J-STSP (IEEE Journal of Selected Topics in Signal Processing).</li>
   <li><em>[Feb. 2025]</em> One paper is accepted to SCIS (CCF-A Journal).</li>
   <li><em>[Feb. 2025]</em> One paper is accepted to ICLR 2025 (Oral).</li>
@@ -331,6 +332,12 @@ My current research interests focus on two key areas:
 2025
 </div>
 <ul>
+    <li>
+      Prompt-tuning Decision Transformer with Preference Ranking
+      <br><b>Shengchao Hu</b>, Li Shen, Ya Zhang, Dacheng Tao<br>
+      <i>Science China Information Sciences (<b>SCIS</b>), <b><font color="red">CCF-A</font></b>, 2025</i><br>
+      [<a href="https://arxiv.org/abs/2305.09648">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
+    </li>
     <li>
       Reconstruct the Pruned Model without Any Retraining
       <br>Pingjie Wang, Ziqing Fan, <b>Shengchao Hu</b>, Zhe Chen, Yanfeng Wang, Yu Wang,<br>
