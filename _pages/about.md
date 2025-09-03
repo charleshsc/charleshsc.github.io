@@ -417,7 +417,7 @@ My current research interests focus on two key areas:
 </ul>
 
 # 🎖 Honors and Awards
-- *2025.09* 85届计算机系教育发展基金暨杨元庆教育基金
+- *2025.09* 85届计算机系教育发展基金暨杨元庆教育基金优秀博士生奖学金
 - *2025.01* Young Talent Support Project Doctoral Special Program (青年人才托举工程博士生专项计划)
 - *2024.09* National Scholarships 
 - *2020-2021* Shanghai Jiao Tong University Category C Scholarship
