@@ -310,6 +310,7 @@ My current research interests focus on two key areas:
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>[Sep. 2025]</em> Two papers are accepted to NeurIPS 2025.</li>
   <li><em>[Sep. 2025]</em> I received an outstanding doctoral student scholarship.</li>
   <li><em>[Aug. 2025]</em> One paper is accepted to SCIS (CCF-A Journal).</li>
   <li><em>[Apr. 2025]</em> One paper is accepted to J-STSP (IEEE Journal of Selected Topics in Signal Processing).</li>
@@ -333,6 +334,18 @@ My current research interests focus on two key areas:
 2025
 </div>
 <ul>
+    <li>
+      Analytic Energy-Guided Policy Optimization for Offline Reinforcement Learning
+      <br>Jifeng Hu, Sili Huang, Zhejian Yang, <b>Shengchao Hu</b>, Li Shen, Hechang Chen, Lichao Sun, Yi Chang, Dacheng Tao<br>
+      <i>Neural Information Processing Systems (<b>NeurIPS</b>), <b><font color="red">CCF-A</font></b>, 2025</i><br>
+      [<a href="https://arxiv.org/abs/2505.01822">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
+    </li>
+    <li>
+      Tackling Continual Offline RL through Selective Weights Activation on Aligned Spaces
+      <br>Jifeng Hu, Sili Huang, Li Shen, Zhejian Yang, <b>Shengchao Hu</b>, Shisong Tang, Hechang Chen, Lichao Sun, Yi Chang, Dacheng Tao<br>
+      <i>Neural Information Processing Systems (<b>NeurIPS</b>), <b><font color="red">CCF-A</font></b>, 2025</i><br>
+      [<a href="https://arxiv.org/abs/2410.15698">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
+    </li>
     <li>
       Prompt-tuning Decision Transformer with Preference Ranking
       <br><b>Shengchao Hu</b>, Li Shen, Ya Zhang, Dacheng Tao<br>
