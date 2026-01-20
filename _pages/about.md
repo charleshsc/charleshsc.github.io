@@ -310,6 +310,7 @@ My current research interests focus on two key areas:
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>[Jan. 2026]</em> One paper is accepted to TKDE.</li>
   <li><em>[Sep. 2025]</em> Two papers are accepted to NeurIPS 2025.</li>
   <li><em>[Sep. 2025]</em> I received an outstanding doctoral student scholarship.</li>
   <li><em>[Aug. 2025]</em> One paper is accepted to SCIS (CCF-A Journal).</li>
