@@ -332,6 +332,17 @@ My current research interests focus on two key areas:
 # 📝 Publications ([Full List](https://scholar.google.com/citations?user=dOsBnNkAAAAJ&hl=zh-CN&oi=ao))
 
 <div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
+2026
+</div>
+<ul>
+    <li>
+      Communication Learning in Multi-Agent Systems from Graph Modeling Perspective
+      <br><b>Shengchao Hu</b>, Li Shen, Ya Zhang, Dacheng Tao<br>
+      <i>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>), <b><font color="red">CCF-A</font></b>, 2026</i><br>
+      [<a href="https://arxiv.org/abs/2411.00382">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
+    </li>
+</ul>
+<div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
 2025
 </div>
 <ul>
