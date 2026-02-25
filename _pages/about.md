@@ -278,6 +278,7 @@ My current research interests focus on two key areas:
 
 - **Computer Vision:** autonomous driving, embodied AI
 - **Machine Learning:** reinforcement learning, continuous learning
+- **LLM:** agentical RL
 
 
 # 🔥 News
@@ -336,6 +337,24 @@ My current research interests focus on two key areas:
 2026
 </div>
 <ul>
+    <li>
+      The State of Reinforcement Finetuning for Transformer-based Generative Agents
+      <br><b>Shengchao Hu</b>, Guozheng Ma, Shi Fu, Peng Wang, Li Shen, Ya Zhang, Dacheng Tao<br>
+      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="#9400D3">non-CCF</font></b>, 2026</i><br>
+      [<a href="https://openreview.net/forum?id=Cbg9MR6dR7">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
+    </li>
+    <li>
+      Rethinking Data Curation in LLM Training: Online Reweighting Offers Better Generalization than Offline Methods
+      <br>Wanru Zhao, Yihong Chen, Wentao Ma, Yuzhi Tang, <b>Shengchao Hu</b>, Shell Xu Hu, Alex Iacob, Abhinav Mehrotra, Nicholas D Lane<br>
+      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="#9400D3">non-CCF</font></b>, 2026</i><br>
+      [<a href="https://openreview.net/forum?id=UFwnsmFZ6R">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
+    </li>
+    <li>
+      Understanding the Dynamics of Forgetting and Generalization in Continual Learning via the Neural Tangent Kernel
+      <br>Guodong Zheng, <b>Shengchao Hu</b>, Peng Wang, Quan Zheng, Li Shen<br>
+      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="#9400D3">non-CCF</font></b>, 2026</i><br>
+      [<a href="https://openreview.net/forum?id=NE2yIxdo1w">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
+    </li>
     <li>
       Communication Learning in Multi-Agent Systems from Graph Modeling Perspective
       <br><b>Shengchao Hu</b>, Li Shen, Ya Zhang, Dacheng Tao<br>
