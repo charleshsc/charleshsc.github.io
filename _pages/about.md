@@ -272,7 +272,8 @@ redirect_from:
 I am currently a Ph.D. student at the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) of [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN&oi=ao) and Prof. [Ya Zhang](https://scholar.google.com/citations?user=pbjw9sMAAAAJ&hl=zh-CN&oi=ao). I received my bachelor's degree from Shanghai Jiao Tong University in June 2022, during which I worked as a research assistant at [ThinkLab](https://thinklab.sjtu.edu.cn/) under the guidance of Prof. [Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=zh-CN&oi=ao).
 
 **I am open to potential collaborations. If you are interested, please feel free to contact me via email.**
-**I am now seek for the internship opportunities, If you are interested, please feel free to contact me via email.**
+
+**I am now also seek for the internship opportunities, If you are interested, please feel free to contact me via email or wechat.**
 
 # 🔎 Research 
 My current research interests focus on two key areas:
