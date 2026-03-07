@@ -539,6 +539,18 @@ My current research interests focus on two key areas:
 <div class="experience-card">
   <div class="experience-info">
     <div class="experience-title">
+      <a href="https://job.xiaohongshu.com/">Hi Lab</a>, Xiaohongshu Inc.
+    </div>
+    <div class="experience-role">Red Star, 2025.11-2026.03</div>
+  </div>
+  <div class="experience-logo">
+    <img src="../images/xhs.png" alt="XHS Logo" />
+  </div>
+</div>
+
+<div class="experience-card">
+  <div class="experience-info">
+    <div class="experience-title">
       <a href="https://dr.ntu.edu.sg/entities/person/Tao-Dacheng">GenAI Lab</a>, Nanyang Technological University
     </div>
     <div class="experience-role">Research Assistant, 2024-2025</div>
