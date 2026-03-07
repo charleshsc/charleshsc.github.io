@@ -272,6 +272,7 @@ redirect_from:
 I am currently a Ph.D. student at the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) of [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN&oi=ao) and Prof. [Ya Zhang](https://scholar.google.com/citations?user=pbjw9sMAAAAJ&hl=zh-CN&oi=ao). I received my bachelor's degree from Shanghai Jiao Tong University in June 2022, during which I worked as a research assistant at [ThinkLab](https://thinklab.sjtu.edu.cn/) under the guidance of Prof. [Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=zh-CN&oi=ao).
 
 **I am open to potential collaborations. If you are interested, please feel free to contact me via email.**
+**I am now seek for the internship opportunities, If you are interested, please feel free to contact me via email.**
 
 # 🔎 Research 
 My current research interests focus on two key areas:
@@ -340,19 +341,19 @@ My current research interests focus on two key areas:
     <li>
       The State of Reinforcement Finetuning for Transformer-based Generative Agents
       <br><b>Shengchao Hu</b>, Guozheng Ma, Shi Fu, Peng Wang, Li Shen, Ya Zhang, Dacheng Tao<br>
-      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="#9400D3">non-CCF</font></b>, 2026</i><br>
+      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="red">CCF-A</font></b>, 2026</i><br>
       [<a href="https://openreview.net/forum?id=Cbg9MR6dR7">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
     </li>
     <li>
       Rethinking Data Curation in LLM Training: Online Reweighting Offers Better Generalization than Offline Methods
       <br>Wanru Zhao, Yihong Chen, Wentao Ma, Yuzhi Tang, <b>Shengchao Hu</b>, Shell Xu Hu, Alex Iacob, Abhinav Mehrotra, Nicholas D Lane<br>
-      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="#9400D3">non-CCF</font></b>, 2026</i><br>
+      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="red">CCF-A</font></b>, 2026</i><br>
       [<a href="https://openreview.net/forum?id=UFwnsmFZ6R">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
     </li>
     <li>
       Understanding the Dynamics of Forgetting and Generalization in Continual Learning via the Neural Tangent Kernel
       <br>Guodong Zheng, <b>Shengchao Hu</b>, Peng Wang, Quan Zheng, Li Shen<br>
-      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="#9400D3">non-CCF</font></b>, 2026</i><br>
+      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="red">CCF-A</font></b>, 2026</i><br>
       [<a href="https://openreview.net/forum?id=NE2yIxdo1w">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
     </li>
     <li>
@@ -399,7 +400,7 @@ My current research interests focus on two key areas:
     <li>
       Combatting Dimensional Collapse in LLM Pre-Training Data via Diversified File Selection
       <br>Ziqing Fan, Siyuan Du, <b>Shengchao Hu</b>, Pingjie Wang, Li Shen, Ya Zhang, Dacheng Tao, Yanfeng Wang,<br>
-      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="#9400D3">non-CCF, Oral</font></b>, 2025</i><br>
+      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="red">CCF-A, Oral</font></b>, 2025</i><br>
       [<a href="https://arxiv.org/abs/2504.20644">Paper</a>][<a href="https://github.com/MediaBrain-SJTU/DiSF">Code</a>]
    </li>
    <li>
@@ -446,7 +447,7 @@ My current research interests focus on two key areas:
     <li>
       Learning Multi-Agent Communication from Graph Modeling Perspective
       <br><b>Shengchao Hu</b>, Li Shen, Ya Zhang, Dacheng Tao,<br>
-      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="#9400D3">non-CCF</font></b>, 2024</i><br>
+      <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="red">CCF-A</font></b>, 2024</i><br>
       [<a href="https://arxiv.org/abs/2405.08550">Paper</a>][<a href="https://github.com/charleshsc/CommFormer">Code</a>]
     </li>
 </ul>
