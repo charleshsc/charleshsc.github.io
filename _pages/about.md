@@ -276,7 +276,7 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 **I am now also seek for the internship opportunities, If you are interested, please feel free to contact me via email or wechat.**
 
 # 🔎 Research 
-My current research interests focus on two key areas:
+My current research interests focus on three key areas:
 
 - **Computer Vision:** autonomous driving, embodied AI
 - **Machine Learning:** reinforcement learning, continuous learning
@@ -361,7 +361,7 @@ My current research interests focus on two key areas:
       Communication Learning in Multi-Agent Systems from Graph Modeling Perspective
       <br><b>Shengchao Hu</b>, Li Shen, Ya Zhang, Dacheng Tao<br>
       <i>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>), <b><font color="red">CCF-A</font></b>, 2026</i><br>
-      [<a href="https://arxiv.org/abs/2411.00382">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
+      [<a href="https://ieeexplore.ieee.org/document/11365584">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
     </li>
 </ul>
 <div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
