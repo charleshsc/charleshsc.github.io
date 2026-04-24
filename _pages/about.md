@@ -531,7 +531,9 @@ My current research interests focus on three key areas:
   <h3>Journal Reviewer</h3>
   <ul class="service-list">
     <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
-  <li><a href="https://www.ieee-ras.org/publications/ra-l"><autocolor>IEEE Robotics and Automation Letters (RA-L)</autocolor></a></li>
+    <li><a href="https://dl.acm.org/journal/ieeecs_tkde"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
+    <li><a href="https://dl.acm.org/journal/itpm"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
+    <li><a href="https://www.ieee-ras.org/publications/ra-l"><autocolor>IEEE Robotics and Automation Letters (RA-L)</autocolor></a></li>
   </ul>
 </div>
 
