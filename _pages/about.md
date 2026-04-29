@@ -273,8 +273,6 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 
 **I am open to potential collaborations. If you are interested, please feel free to contact me via email.**
 
-**I am now also seek for the internship opportunities, If you are interested, please feel free to contact me via email or wechat.**
-
 # 🔎 Research 
 My current research interests focus on three key areas:
 
