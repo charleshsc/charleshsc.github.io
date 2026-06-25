@@ -278,7 +278,7 @@ My current research interests focus on three key areas:
 
 - **Computer Vision:** autonomous driving, embodied AI
 - **Machine Learning:** reinforcement learning, continuous learning
-- **LLM:** agentical RL
+- **LLM:** agentical RL, data construction/selection
 
 
 # 🔥 News
@@ -311,6 +311,7 @@ My current research interests focus on three key areas:
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>[Jun. 2026]</em> One paper is accepted to PR.</li>
   <li><em>[Jan. 2026]</em> Three papers are accepted to ICLR 2026.</li>
   <li><em>[Jan. 2026]</em> One paper is accepted to TKDE.</li>
   <li><em>[Sep. 2025]</em> Two papers are accepted to NeurIPS 2025.</li>
