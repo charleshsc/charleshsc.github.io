@@ -339,6 +339,12 @@ My current research interests focus on three key areas:
 </div>
 <ul>
     <li>
+      Explainable anomaly detection and localization for ADHD in MRI using topological features
+      <br>Peng Wang, Jiayi Duan, Yuqing Xing, Ruihang Xu, Anyuan Xu, Haodong Chen, <b>Shengchao Hu</b>, Tao Wang, Shuang Liu<br>
+      <i>Pattern Recognition (<b>PR</b>), <b><font color="red">SCI I</font></b>, 2026</i><br>
+      [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320326013129">Paper</a>][<a href="https://charleshsc.github.io/">Code</a>]
+    </li>
+    <li>
       The State of Reinforcement Finetuning for Transformer-based Generative Agents
       <br><b>Shengchao Hu</b>, Guozheng Ma, Shi Fu, Peng Wang, Li Shen, Ya Zhang, Dacheng Tao<br>
       <i>International Conference on Learning Representations (<b>ICLR</b>), <b><font color="red">CCF-A</font></b>, 2026</i><br>
