@@ -311,6 +311,7 @@ My current research interests focus on three key areas:
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>[Aug. 2026]</em> One paper about GUI agent is released!</li>
   <li><em>[Jun. 2026]</em> One paper is accepted to PR.</li>
   <li><em>[Jan. 2026]</em> Three papers are accepted to ICLR 2026.</li>
   <li><em>[Jan. 2026]</em> One paper is accepted to TKDE.</li>
@@ -338,6 +339,11 @@ My current research interests focus on three key areas:
 2026
 </div>
 <ul>
+    <li>
+      Explainable anomaly detection and localization for ADHD in MRI using topological features
+      <br>Zihan Ding, Longxu Dou, Qi Gao, Xiangwu Guo, <b>Shengchao Hu</b>, Zilong Huang, Zihang Jiang, Lei Ke, Mengcheng Lan, Weixian Lei, Hanxuan Li, Honglin Li, Xiyun Li, Zaitang Li, Leowei Liang, Xin Luo, Haozhe Ma, Jiayi Mao, Zhoujie Pan, Can Qin, Tianyuan Qu, Weiqi Wang, Wenkai Wang, Yonglin Wang, Yuxin Wang, Chenxu Wu, Yingchen Yu, Chenyu Zhang, Yuhao Zheng<br>
+      [<a href="https://arxiv.org/pdf/2608.15930">Paper</a>][<a href="https://ui-mate.github.io/">Code</a>]
+    </li>
     <li>
       Explainable anomaly detection and localization for ADHD in MRI using topological features
       <br>Peng Wang, Jiayi Duan, Yuqing Xing, Ruihang Xu, Anyuan Xu, Haodong Chen, <b>Shengchao Hu</b>, Tao Wang, Shuang Liu<br>
