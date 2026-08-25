@@ -340,7 +340,7 @@ My current research interests focus on three key areas:
 </div>
 <ul>
     <li>
-      Explainable anomaly detection and localization for ADHD in MRI using topological features
+      UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations
       <br>Zihan Ding, Longxu Dou, Qi Gao, Xiangwu Guo, <b>Shengchao Hu</b>, Zilong Huang, Zihang Jiang, Lei Ke, Mengcheng Lan, Weixian Lei, Hanxuan Li, Honglin Li, Xiyun Li, Zaitang Li, Leowei Liang, Xin Luo, Haozhe Ma, Jiayi Mao, Zhoujie Pan, Can Qin, Tianyuan Qu, Weiqi Wang, Wenkai Wang, Yonglin Wang, Yuxin Wang, Chenxu Wu, Yingchen Yu, Chenyu Zhang, Yuhao Zheng<br>
       [<a href="https://arxiv.org/pdf/2608.15930">Paper</a>][<a href="https://ui-mate.github.io/">Code</a>]
     </li>
